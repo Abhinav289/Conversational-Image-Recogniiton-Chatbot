@@ -1,4 +1,4 @@
-Description:
+**Description:**
 
  combinationation of  natural language processing and image recognition.
  Chatbots are now widely used as part of platform as applications like Apple's Siri, Google's Google Assistant or Microsoft's Cortana. 
@@ -11,7 +11,7 @@ Description:
 
 
 
-colab link file:
+**colab link file:**
 
 https://colab.research.google.com/drive/1z2dc9VbUF_Mz9nMBEHzxXIX4W8nhJflG?usp=sharing
 
